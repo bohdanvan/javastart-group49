@@ -1,3 +1,5 @@
+package com.bvan.javastart.lesson2;
+
 /**
  * @author bvanchuhov
  */
