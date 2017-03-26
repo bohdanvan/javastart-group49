@@ -13,6 +13,8 @@ Prog.kiev.ua. Java Start. Группа 49
 
 [Java Start. Богдан. Группа 49. Лекция 5 (22.03.2017)](https://prog.kiev.ua/forum/index.php/topic,2842.0.html)
 
+[Java Start. Богдан. Группа 49. Лекция 6 (27.03.2017)](https://prog.kiev.ua/forum/index.php/topic,2848.0.html)
+
 ## Видео лекций предыдущих групп
 
 [Видеозапись лекций](https://mega.nz/#F!SRclnQQT)
